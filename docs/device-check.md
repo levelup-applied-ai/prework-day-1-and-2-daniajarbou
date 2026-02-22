@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [Dania Jarbooh]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-23]
+**GitHub username:** [DaniaJarbou]
 
 ---
 
@@ -45,10 +45,14 @@
 
 ## Admin Rights Confirmation
 
+<img width="1738" height="93" alt="admin rights" src="https://github.com/user-attachments/assets/ba41ac9f-475b-4962-8fbe-cb95e481b66f" />
+
 **Result:** [Paste command output, or write "Confirmed via System Settings"]
+
 
 ---
 
 ## Device Notes
 
 [Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+My device has 8 GB RAM instead of 16 GB.
