@@ -40,10 +40,12 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 After cloning, output of `git status` from inside your repo:
 
-[Paste output here]
+[On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
+nothing to commit, working tree clean]
 
----
 
 ## Notes
 
