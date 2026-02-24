@@ -28,3 +28,11 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+[My name is Dania Jarbou ,and I am learning Git and GitHub as part of my AIspire training .
+ This repository contains practice exercises and documentation for setting up Git, managing branches, and tracking changes.]
+
+ ## Setup
+ 
